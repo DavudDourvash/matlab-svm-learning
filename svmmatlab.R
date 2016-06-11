@@ -11,6 +11,6 @@ classA<-which(y==1)
 classB<-which(y==-1)
 plot(x[classA,1],x[classA,2],  col = "red")
 points(x[classB,1],x[classB,2],  col = "blue", type = "p")
-akjsdgajsdgajsg
+
  
 
